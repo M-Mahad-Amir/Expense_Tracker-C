@@ -1,5 +1,10 @@
 # Expense Tracker – C Programming (PF Final Project)
 
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Project](https://img.shields.io/badge/Project-Academic-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)
+
 A **console-based Expense Tracker application written in C**, developed as a **Final Semester Project for Programming Fundamentals (CT-175)**. The project focuses on applying core C concepts to solve a real-world problem: **personal expense and income management with persistent storage**.
 
 ---
