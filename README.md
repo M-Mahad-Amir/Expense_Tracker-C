@@ -58,6 +58,7 @@ Expense-Tracker-C/
 ```
 
 > ⚠️ Note: `<username>.csv` files are automatically generated when a user adds expenses.
+>           The added demo user csv file - is not compatible to call data into the program directly - its just there to view how the file will look...
 
 ---
 
