@@ -80,8 +80,8 @@ gcc Final.c -o expense_tracker
 
 ## 👥 Team Contributions
 
-- **Muhammad Mahad** — Program architecture and complete menu-driven system
-- **Faiq Ahmed** — File handling, persistent storage, and summary analytics
+- **Muhammad Mahad Amir** — Program architecture and complete menu-driven system
+- **Faaiq Ahmed** — File handling, persistent storage, and summary analytics
 - **Syed Muhammad Areeb** — User authentication, date handling, and input validation
 
 ---
